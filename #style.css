@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+body {
+
+background-color: #9a2de2e3;
+
+font-family: "Inria Sans";
+
+}
+
+footer {
+
+background-color: #fff;
+
+color: darkmagenta;
+
+bottom: 0;
+
+position:fixed;
+
+width: 100%;
+
+X
+
+}
+
+footer p{
+
+text-align: center;
+
+font-size: 0.6em;;
+
+height:2rem;
+
+margin-top: 0.5rem
