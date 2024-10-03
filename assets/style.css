@@ -1,6 +1,6 @@
 :root {
-    --text-color: #1373e9;
-    --card-front-color: #1b8014;
+    --text-color: #09274d;
+    --card-front-color: hsl(113, 82%, 2%);
     --card-back-color: #0004f4;
 }
 
